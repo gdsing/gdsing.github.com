@@ -2,11 +2,9 @@
     "site_name": "活死人墓",
     "copyright": "逍遥子",
     "cates": [
-        {"name": "tech", "text":"工作"},
-        {"name": "study", "text":"学习"},
-        {"name": "other", "text":"其它"}
+        {"name": "study", "text":"学习"}
     ],
     "articles":[
-	{"title": "沪江视频课", "file": "2013-07-11-hjvodclass", "cate":"study"},
+	{"title": "沪江视频课", "file": "2013-07-11-hjvodclass", "cate":"study"}
     ]
 }
