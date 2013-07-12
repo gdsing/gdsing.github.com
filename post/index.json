@@ -2,10 +2,12 @@
     "site_name": "活死人墓",
     "copyright": "逍遥子",
     "cates": [
-        {"name": "study", "text":"学习"}
+        {name": "person", "text":"个人"},
+        {name": "study", "text":"学习"}
     ],
     "articles":[
+	{"title": "快盘&T盘合并", "file": "2013-07-12-kuaipan","cate":"person"},
 	{"title": "沪江视频课", "file": "2013-07-11-hjvodclass", "cate":"study"},
-	{"title": "create blog", "file": "2013-07-10-createblog", "cate":"study"}
+	{"title": "blog建立", "file": "2013-07-10-createblog", "cate":"person"}
     ]
 }
