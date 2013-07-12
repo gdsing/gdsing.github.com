@@ -5,6 +5,7 @@
         {"name": "study", "text":"学习"}
     ],
     "articles":[
-	{"title": "沪江视频课", "file": "2013-07-11-hjvodclass", "cate":"study"}
+	{"title": "沪江视频课", "file": "2013-07-11-hjvodclass", "cate":"study"},
+	{"title": "create blog", "file": "2013-07-10-createblog", "cate":"study"}
     ]
 }
