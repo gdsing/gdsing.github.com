@@ -8,6 +8,7 @@
     "articles":[
 	{"title": "快盘&T盘合并", "file": "2013-07-12-kuaipan", "cate":"person"},
 	{"title": "沪江视频课", "file": "2013-07-11-hjvodclass", "cate":"study"},
-	{"title": "blog建立", "file": "2013-07-10-createblog", "cate":"person"}
+	{"title": "blog建立", "file": "2013-07-10-createblog", "cate":"person"},
+	{"title": "留言板","file": "2099-9-9-liuyan","cate":"person"}
     ]
 }
